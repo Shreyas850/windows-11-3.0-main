@@ -44,12 +44,12 @@ export const workExperienceTemplate = [
 
 // GitHub Repositories
 export const githubRepos = [
-  {
+{
     name: "Portfolio",
     techUsed: ["Next.js", "TailwindCSS"],
     description: "Uncover deeper insights into my journey and capabilities.",
     githubLink: `${githubLink}/Portfolio`,
-    liveURL: "https://portfolio-vert-one-79.vercel.app/",
+    liveURL: "https://khush-v2.netlify.app/",
   },
   {
     name: "Emoji-TicTacToe",
