@@ -46,7 +46,7 @@ export const workExperienceTemplate = [
 export const githubRepos = [
 {
     name: "Portfolio",
-    techUsed: ["Next.js", "TailwindCSS"],
+    techUsed: ["HTML, CSS" & "Javascript"],
     description: "Uncover deeper insights into my journey and capabilities.",
     githubLink: `${githubLink}/Portfolio`,
     liveURL: "https://khush-v2.netlify.app/",
