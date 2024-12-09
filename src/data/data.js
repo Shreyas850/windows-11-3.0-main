@@ -64,16 +64,16 @@ export const githubRepos = [
     techUsed: ["Python"],
     description:
       "Explore chaos in GTA VI(Early Access), a Python and Ursina-powered open-world adventure. Engage in a gripping narrative, experience dynamic gameplay, and unlock exclusive updates. Navigate the urban jungle and gear up for the thrill!",
-    githubLink:"https://github.com/Shreyas850/GTA-VI-Early-access",
-    liveURL: `${githubLink}/GTA-VI-Early-Access-`,
+    githubLink: `${githubLink}/GTA-VI-Early-Access-`,
+    liveURL:"https://github.com/Shreyas850/GTA-VI-Early-access",
   },
   {
     name: "NYX",
     techUsed: ["HTML", "CSS", "JavaScript"],
     description:
       "NYX is a sleek Website Blocker that empowers users to block distracting websites for set durations, promoting productivity and focus.",
-    githubLink:"https://github.com/Shreyas850/nyx-website-blocker",
-    liveURL: `${githubLink}/nyx`,
+    githubLink: `${githubLink}/nyx`,
+    liveURL:"https://github.com/Shreyas850/nyx-website-blocker",
   },
 ];
 
