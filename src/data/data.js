@@ -25,7 +25,7 @@ const githubLink = "https://github.com/Shreyas850l";
 
 // Profile Description
 export const profileDescription = [
-  "Hello, I'm Khush, an experienced front-end & back-end web developer & app developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. & app developing languages like kotlin, java, rust, c++, c#, objective c, c/c++ I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web & app experiences together!",
+  "Hello, I'm Khush, an experienced front-end & back-end web developer & app developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. & app developing languages like kotlin, java, rust, c++, c#, objective c, c/c++, makefile. I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web & app experiences together!",
 ];
 
 // Work Experience Template
