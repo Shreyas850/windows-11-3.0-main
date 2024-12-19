@@ -82,14 +82,14 @@ export const educationExperience = [
   {
     key: 1,
     institution: "Anikethana School & College of Education",
-    graduation: "August 2022",
+    graduation: "August 2024",
     degree: "XII",
     type: "education",
   },
   {
     key: 2,
     institution: "Mandavya Higher Primary school",
-    graduation: "April 2020",
+    graduation: "April 2023",
     degree: "X",
     type: "education",
   },
