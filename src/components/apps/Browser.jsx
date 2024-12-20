@@ -71,9 +71,8 @@ const TabBar = () => (
 function Browser({ isAppOpen, toggleBrowser, bounds }) {
   const explorerRef = useRef(null);
   const homeUrl = "https://www.google.com/webhp?igu=1";
-  const Url = "";
   const { name } = useParams();
-
+ 
   const handleCloseBrowser = useCallback(() => {
     toggleBrowser();
   }, [toggleBrowser]);
