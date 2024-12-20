@@ -42,7 +42,7 @@ function VsCode({ isAppOpen, toggleVsCode, bounds }) {
           <div className="content text-white select-none text-center flex justify-center h-full">
             {contentLoaded && (
               <iframe
-                src="https://github1s.com/Shreyas850/nyx-ad-blocker/blob/main/manifest.json"
+                src="https://github.com/Shreyas850/GTA-VI-Early-access/blob/master/main.py"
                 title="VsCode"
                 className="h-full w-full bg-ub-cool-grey"
               ></iframe>
