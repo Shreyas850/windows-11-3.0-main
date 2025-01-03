@@ -82,7 +82,7 @@ export const educationExperience = [
   {
     key: 1,
     institution: "Anikethana School & College of Education",
-    graduation: "August 2025",
+    graduation: "August 2026",
     degree: "XII",
     type: "education",
   },
