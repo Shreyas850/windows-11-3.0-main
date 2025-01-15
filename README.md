@@ -24,7 +24,11 @@ To get this project running on your local machine, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/Shreyas850/Windows11-3.0
+=======
+   git clone https://github.com/Shreyas850/windows-11-3.0-main
+>>>>>>> 3f22410fe17b0aa543f23a844b5c63bf45db6e37
    ```
 
 2. **Navigate to the project directory:**
