@@ -81,7 +81,7 @@ export const githubRepos = [
 export const educationExperience = [
   {
     key: 1,
-    institution: "Anikethana School & College of Education",
+    institution: "Karnataka State Open University",
     graduation: "August 2027",
     degree: "XII",
     type: "education",
