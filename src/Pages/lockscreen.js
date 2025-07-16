@@ -3,21 +3,18 @@ import Login from "../components/user/Login";
 import Slider from "../components/utilities/Slider";
 
 function Lockscreen() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  // Use useCallback to memoize the function and avoid unnecessary re-renders
   const toggleMenu = useCallback(() => {
     setIsMenuOpen((prev) => !prev);
   }, []);
- <div>
-    <h1>Lockscreen</h1>
-    <Button>Click</Button>
-  </div>
-);
-    );
-  }
 
   return (
     <>
+      <div>
+        <h1>Lockscreen</h1>
+        <button onClick={toggleMenu}>Click</button>
+      </div>
 
       <div
         className="absolute bg-black h-screen w-full blur-sm"
