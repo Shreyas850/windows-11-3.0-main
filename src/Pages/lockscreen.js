@@ -8,12 +8,11 @@ function Lockscreen() {
   const toggleMenu = useCallback(() => {
     setIsMenuOpen((prev) => !prev);
   }, []);
-
-  // Callback for mobile detection
-  }, []);
-
-  // Conditional rendering for mobile detection
-      </div>
+ <div>
+    <h1>Lockscreen</h1>
+    <Button>Click</Button>
+  </div>
+);
     );
   }
 
