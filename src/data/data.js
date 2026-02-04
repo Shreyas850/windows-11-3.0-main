@@ -81,15 +81,15 @@ export const githubRepos = [
 export const educationExperience = [
   {
     key: 1,
-    institution: "Karnataka State Open University",
-    graduation: "August 2027",
-    degree: "XII",
+    institution: "Alliance University",
+    graduation: "August 2028",
+    degree: "AI & ML",
     type: "education",
   },
   {
     key: 2,
-    institution: "Mandavya Higher Primary High School",
-    graduation: "April 2025",
+    institution: "Mandavya Higher Primary High School & Mandavya PU College",
+    graduation: "April 2023 & May 2025",
     degree: "X",
     type: "education",
   },
