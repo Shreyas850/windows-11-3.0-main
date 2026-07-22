@@ -6,10 +6,10 @@ import Main from "./Pages/main";
 function App() {
   return (
     <Router>
-      <Routes>
-        <Route path="/" element={<Lockscreen />} />
-        <Route path="/:name" element={<Main />} />
-      </Routes>
+     <Routes>
+  <Route path="/" element={<Lockscreen />} />
+  <Route path="/:name" element={<Main />} />
+</Routes>
     </Router>
   );
 }

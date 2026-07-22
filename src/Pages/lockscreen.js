@@ -9,17 +9,12 @@ function Lockscreen() {
     setIsMenuOpen((prev) => !prev);
   }, []);
 
-  return (
+return (
     <>
-      <div>
-        <h1>Lockscreen</h1>
-        <button onClick={toggleMenu}>Click</button>
-      </div>
-
-      <div
+      <div 
         className="absolute bg-black h-screen w-full blur-sm"
         style={{
-          background:
+          background: 
             "url(https://images8.alphacoders.com/134/1346089.png) no-repeat center center",
           backgroundSize: "cover",
         }}
@@ -28,8 +23,8 @@ function Lockscreen() {
       <div className="absolute left-0 top-0 h-screen w-full flex flex-col items-center z-10">
         <Login />
       </div>
-
-      <Slider
+      
+      <Slider 
         isMenuOpen={isMenuOpen}
         setIsMenuOpen={setIsMenuOpen}
         toggleMenu={toggleMenu}

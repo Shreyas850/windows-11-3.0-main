@@ -82,15 +82,15 @@ export const educationExperience = [
   {
     key: 1,
     institution: "Alliance University",
-    graduation: "August 2028",
+    graduation: "August 2030",
     degree: "AI & ML",
     type: "education",
   },
   {
     key: 2,
-    institution: "Mandavya Higher Primary High School & Mandavya PU College",
-    graduation: "April 2023 & May 2025",
-    degree: "X",
+    institution: "Mandavya Higher Primary High School & JSS Pre University College ",
+    graduation: "April 2023 & May 2026",
+    degree: "X, XI, XII",
     type: "education",
   },
 ];
