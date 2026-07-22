@@ -89,8 +89,8 @@ export const educationExperience = [
   {
     key: 2,
     institution: "Mandavya Higher Primary High School & JSS Pre University College ",
-    graduation: "April 2023 & May 2026",
-    degree: "X, XI, XII",
+    graduation: "April 2024 & May 2026",
+    degree: "XI, XII",
     type: "education",
   },
 ];
